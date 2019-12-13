@@ -1,0 +1,77 @@
+{
+    "name": "Abine",
+    "description": "Blur protects your private info and helps you stay anonymous online with masked, burner cards (virtual cards), ad blocking, masked emails, and masked phones.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/19952-abine.jpg",
+    "tags": [
+        "api not found",
+        "have api",
+        "privacy"
+    ],
+    "created": "2019-12-12",
+    "modified": "2019-12-12",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/abine\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Abine",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/19952-abine.jpg",
+            "humanURL": "https:\/\/www.abine.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/abine-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/www.abine.com\/blog\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "https:\/\/www.abine.com\/blog\/feed\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/abine"
+        },
+        {
+            "type": "Email",
+            "url": "info@abine.com"
+        },
+        {
+            "type": "Email",
+            "url": "jobs@abine.com"
+        },
+        {
+            "type": "Email",
+            "url": "reportlostcard@abine.com"
+        },
+        {
+            "type": "Email",
+            "url": "blur-support@abine.com"
+        },
+        {
+            "type": "Email",
+            "url": "deleteme@abine.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/Abine"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/Abine"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.abine.com"
+        }
+    ]
+}
